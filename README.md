@@ -8,7 +8,8 @@
 Virtus
 ======
 
-[![Gem Version](https://badge.fury.io/rb/virtus.svg)][gem]
+[![Gem Version](https://badge.fury.io/rb/virtus.svg)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fvirtus.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fvirtus?ref=badge_shield)
+[gem]
 [![Build Status](https://travis-ci.org/solnic/virtus.svg?branch=master)][travis]
 [![Dependency Status](https://gemnasium.com/solnic/virtus.png)][gemnasium]
 [![Code Climate](https://codeclimate.com/github/solnic/virtus/badges/gpa.svg)][codeclimate]
@@ -623,3 +624,7 @@ Contributing
 * Commit, do not mess with Rakefile or version
   (if you want to have your own version, that is fine but bump version in a commit by itself I can ignore when I pull)
 * Send me a pull request. Bonus points for topic branches.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fvirtus.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fvirtus?ref=badge_large)
